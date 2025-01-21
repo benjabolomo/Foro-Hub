@@ -1,4 +1,4 @@
-# Foro Hub Api Rest
+# Foro Hub API REST
 
 Foro Hub es un proyecto de API RESTful que gestiona los tópicos de un foro. Está construido con Java, Spring Boot, Spring Security, MySQL y Hibernate. El proyecto permite crear, leer, actualizar y eliminar tópicos en un foro, con un sistema de autenticación básico para los usuarios.
 
